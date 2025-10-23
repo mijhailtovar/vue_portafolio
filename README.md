@@ -1,3 +1,8 @@
+# Note in spanish
+Este es el readme que viene por defecto para hispano hablantes primero les recomiendo leer
+la documentacion de vue mientras revisan esta plantilla que es suficientemente 
+completa para empezar a modificarla y hacer sus proyectos
+
 # aprendiendo-vue
 
 This template should help get you started developing with Vue 3 in Vite.
